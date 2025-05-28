@@ -4,3 +4,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Ready to finish the task
+- [ ] processing
+- [ ] Done
